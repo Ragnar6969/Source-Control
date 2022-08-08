@@ -1,0 +1,23 @@
+C:\Users\Anonymous\Desktop\CMPG 122(test)\34539476_Practical_11\Vraag 2\Vraag 2\bin\Debug\Vraag 2.exe.config
+C:\Users\Anonymous\Desktop\CMPG 122(test)\34539476_Practical_11\Vraag 2\Vraag 2\bin\Debug\Vraag 2.exe
+C:\Users\Anonymous\Desktop\CMPG 122(test)\34539476_Practical_11\Vraag 2\Vraag 2\bin\Debug\Vraag 2.pdb
+C:\Users\Anonymous\Desktop\CMPG 122(test)\34539476_Practical_11\Vraag 2\Vraag 2\obj\Debug\Vraag 2.csprojAssemblyReference.cache
+C:\Users\Anonymous\Desktop\CMPG 122(test)\34539476_Practical_11\Vraag 2\Vraag 2\obj\Debug\Vraag_2.Form1.resources
+C:\Users\Anonymous\Desktop\CMPG 122(test)\34539476_Practical_11\Vraag 2\Vraag 2\obj\Debug\Vraag_2.Properties.Resources.resources
+C:\Users\Anonymous\Desktop\CMPG 122(test)\34539476_Practical_11\Vraag 2\Vraag 2\obj\Debug\Vraag 2.csproj.GenerateResource.cache
+C:\Users\Anonymous\Desktop\CMPG 122(test)\34539476_Practical_11\Vraag 2\Vraag 2\obj\Debug\Vraag 2.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\Desktop\CMPG 122(test)\34539476_Practical_11\Vraag 2\Vraag 2\obj\Debug\Vraag 2.exe
+C:\Users\Anonymous\Desktop\CMPG 122(test)\34539476_Practical_11\Vraag 2\Vraag 2\obj\Debug\Vraag 2.pdb
+C:\Users\Anonymous\Desktop\CMPG 122(test)\34539476_Practical_11\Vraag 2\Vraag 2\obj\Debug\Vraag_2.Form2.resources
+D:\Desktop\Werk\1ste jaar SEM 2\CMPG 122(test)\34539476_Practical_11\Vraag 2\Vraag 2\bin\Debug\Vraag 2.exe.config
+D:\Desktop\Werk\1ste jaar SEM 2\CMPG 122(test)\34539476_Practical_11\Vraag 2\Vraag 2\bin\Debug\Vraag 2.exe
+D:\Desktop\Werk\1ste jaar SEM 2\CMPG 122(test)\34539476_Practical_11\Vraag 2\Vraag 2\bin\Debug\Vraag 2.pdb
+D:\Desktop\Werk\1ste jaar SEM 2\CMPG 122(test)\34539476_Practical_11\Vraag 2\Vraag 2\obj\Debug\Vraag 2.csproj.AssemblyReference.cache
+D:\Desktop\Werk\1ste jaar SEM 2\CMPG 122(test)\34539476_Practical_11\Vraag 2\Vraag 2\obj\Debug\Vraag 2.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Werk\1ste jaar SEM 2\CMPG 122(test)\34539476_Practical_11\Vraag 2\Vraag 2\obj\Debug\Vraag_2.Form1.resources
+D:\Desktop\Werk\1ste jaar SEM 2\CMPG 122(test)\34539476_Practical_11\Vraag 2\Vraag 2\obj\Debug\Vraag_2.Form2.resources
+D:\Desktop\Werk\1ste jaar SEM 2\CMPG 122(test)\34539476_Practical_11\Vraag 2\Vraag 2\obj\Debug\Vraag_2.Properties.Resources.resources
+D:\Desktop\Werk\1ste jaar SEM 2\CMPG 122(test)\34539476_Practical_11\Vraag 2\Vraag 2\obj\Debug\Vraag 2.csproj.GenerateResource.cache
+D:\Desktop\Werk\1ste jaar SEM 2\CMPG 122(test)\34539476_Practical_11\Vraag 2\Vraag 2\obj\Debug\Vraag 2.csproj.CoreCompileInputs.cache
+D:\Desktop\Werk\1ste jaar SEM 2\CMPG 122(test)\34539476_Practical_11\Vraag 2\Vraag 2\obj\Debug\Vraag 2.exe
+D:\Desktop\Werk\1ste jaar SEM 2\CMPG 122(test)\34539476_Practical_11\Vraag 2\Vraag 2\obj\Debug\Vraag 2.pdb
